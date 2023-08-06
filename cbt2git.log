@@ -1,0 +1,16 @@
+2023-08-06 02:32:23.984328 - Initialized conversion of CBT257
+2023-08-06 02:32:24.053153 - Received CBT.V505.FILE257.PDS from FILE257.XMI 
+2023-08-06 02:32:24.055376 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE257.PDS, moved to PDS/$$$#DATE
+2023-08-06 02:32:24.056321 - Found $$$DOC.txt (text/plain) in CBT.V505.FILE257.PDS, moved to PDS/$$$DOC
+2023-08-06 02:32:24.057479 - Found @FILE257.txt (text/plain) in CBT.V505.FILE257.PDS, moved to PDS/@FILE257
+2023-08-06 02:32:24.058407 - Found HDP2230.txt (text/plain) in CBT.V505.FILE257.PDS, moved to PDS/HDP2230
+2023-08-06 02:32:24.059279 - Found HDP2240.txt (text/plain) in CBT.V505.FILE257.PDS, moved to PDS/HDP2240
+2023-08-06 02:32:24.060271 - Found HDQ1102.txt (text/plain) in CBT.V505.FILE257.PDS, moved to PDS/HDQ1102
+2023-08-06 02:32:24.061204 - Found HDZ11C0.txt (text/plain) in CBT.V505.FILE257.PDS, moved to PDS/HDZ11C0
+2023-08-06 02:32:24.062115 - Found JDZ1110.txt (text/plain) in CBT.V505.FILE257.PDS, moved to PDS/JDZ1110
+2023-08-06 02:32:24.063071 - Found MVS38.txt (text/plain) in CBT.V505.FILE257.PDS, moved to PDS/MVS38
+2023-08-06 02:32:24.075197 - Found MVS38HEW.xmi (application/xmit) in CBT.V505.FILE257.PDS
+2023-08-06 02:32:24.086888   - Received RECFM=U data, stored XMIT file as CBT257/MVS38HEW.xmi
+2023-08-06 02:32:24.087773 - Found MVT.txt (text/plain) in CBT.V505.FILE257.PDS, moved to PDS/MVT
+2023-08-06 02:32:24.098866 - Found MVTIEWL.xmi (application/xmit) in CBT.V505.FILE257.PDS
+2023-08-06 02:32:24.106714   - Received RECFM=U data, stored XMIT file as CBT257/MVTIEWL.xmi
